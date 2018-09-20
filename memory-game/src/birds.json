@@ -2,6 +2,73 @@
   {
     "id": 1,
     "name": "baleric",
-    "image": "./assets/images"
+    "src": "/assets/images/baleric.jpg",
+    "alt": "baleric"
+  },
+  {
+    "id": 2,
+    "name": "chiffchaff",
+    "src": "/assets/images/chiffchaff.jpg",
+    "alt": "chiffchaff"
+  },
+  {
+    "id": 3,
+    "name": "dunlin",
+    "src": "/assets/images/dunlin.jpg",
+    "alt": "dunlin"
+  },
+  {
+    "id": 4,
+    "name": "firecrest",
+    "src": "/assets/images/firecrest.jpg",
+    "alt": "firecrest"
+  },
+  {
+    "id": 5,
+    "name": "hooded-crow",
+    "src": "/assets/images/hooded-crow.jpg",
+    "alt": "hooded-crow"
+  },
+  {
+    "id": 6,
+    "name": "kestrel",
+    "src": "/assets/images/kestrel.jpg",
+    "alt": "kestrel"
+  },
+  {
+    "id": 7,
+    "name": "moorhen",
+    "src": "/assets/images/moorhen.jpg",
+    "alt": "moorhen"
+  },
+  {
+    "id": 8,
+    "name": "nightjar",
+    "src": "/assets/images/nightjar.jpg",
+    "alt": "nightjar"
+  },
+  {
+    "id": 9,
+    "name": "redshank",
+    "src": "/assets/images/redshank.jpg",
+    "alt": "redshank"
+  },
+  {
+    "id": 10,
+    "name": "scaup",
+    "src": "/assets/images/scaup.jpg",
+    "alt": "scaup"
+  },
+  {
+    "id": 11,
+    "name": "velvet-scoter",
+    "src": "/assets/images/velvet-scoter.jpg",
+    "alt": "velvet-scoter"
+  },
+  {
+    "id": 12,
+    "name": "wren",
+    "src": "/assets/images/wren.jpg",
+    "alt": "wren"
   }
 ]
